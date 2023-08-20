@@ -15,3 +15,9 @@ LSTMs are predominantly used to learn, process, and classify sequential data bec
 can learn long-term dependencies between time steps of data. Common LSTM applications include sentiment analysis,
 language modeling, speech recognition, and video analysis.
 
+
+### **Tasks:**<br>
+[US GDP Prediction](https://github.com/Kmohamedalie/Timeseries-with-LSTM/blob/master/Predicting%20USA%20GDP%20with%20LSTM.ipynb)
+
+
+[Retail sales prediction](https://github.com/Kmohamedalie/Timeseries-with-LSTM/blob/master/Timeseries%20forecast%20with%20LSTM.ipynb)
